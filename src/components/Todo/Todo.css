@@ -1,0 +1,26 @@
+.todo-container{
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    border: 1px solid tomato;
+    border-radius: 20px;
+     
+}
+.todo-container:hover{
+    box-shadow: 5px 5px 45px rgba(211, 211, 211, 0.555);
+}
+.title{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right-icon{
+    font-size: 25px;
+    font-weight: 500;
+    color: #3FBF3F
+}
+.wrong-icon{
+    font-size: 25px;
+    font-weight: 500;
+    color: red
+}
